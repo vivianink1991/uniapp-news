@@ -1,0 +1,1 @@
+<view class="news-detail"><view class="news-hd">{{title}}</view><view class="news-bd"><rich-text nodes="{{body}}"></rich-text></view></view>
