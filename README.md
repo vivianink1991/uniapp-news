@@ -1,0 +1,1 @@
+A demo for uniapp, including a news list and detail page
